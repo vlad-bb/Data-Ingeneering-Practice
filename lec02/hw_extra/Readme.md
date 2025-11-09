@@ -5,3 +5,5 @@ docker compose up -d --build
 ```
 
 Сервіс розгорнуто в середовищі Docker на DigitalOcean
+
+http://207.154.200.143:8081/
